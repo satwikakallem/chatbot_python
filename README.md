@@ -1,4 +1,3 @@
-# chatbot_python
 # 🤖 Chatbot with Python (LSTM)
 
 This project is a **chatbot built with Python and Keras** using an LSTM (Long Short-Term Memory) neural network.  
